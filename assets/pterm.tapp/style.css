@@ -1,0 +1,41 @@
+body {
+  background-color: #1a1b26;
+  color: #c0caf5;
+  font-family: 'Fira Code', 'Cascadia Code', monospace;
+  margin: 0;
+}
+
+#terminal {
+  padding: 10px;
+  height: 100vh;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+#output {
+  flex-grow: 1;
+  overflow-y: auto;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+#input-line {
+  display: flex;
+}
+
+#prompt {
+  color: #a9b1d6;
+  margin-right: 5px;
+}
+
+#input {
+  background-color: transparent;
+  border: none;
+  color: #c0caf5;
+  font-family: inherit;
+  font-size: inherit;
+  flex-grow: 1;
+  outline: none;
+} 

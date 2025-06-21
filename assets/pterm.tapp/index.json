@@ -1,0 +1,8 @@
+{
+	"name": "About",
+	"config": {
+		"title": "term",
+		"icon": "/fs/apps/system/pterm.tapp/icon.svg",
+		"src": "/fs/apps/system/pterm.tapp/index.html"
+	}
+}
