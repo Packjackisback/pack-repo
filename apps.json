@@ -1,0 +1,10 @@
+[
+  {
+      "name": "Pack-term",
+      "icon": "https://raw.githubusercontent.com/TerbiumOS/web-v2/refs/heads/lemonade/public/apps/terminal.tapp/icon.svg",
+      "description": "Pack's terminal for testing purposes",
+      "authors": ["pack"],
+      "pkg-name": "pterm",
+      "anura-pkg": "tbd"
+  }
+]
